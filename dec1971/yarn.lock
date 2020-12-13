@@ -9391,10 +9391,10 @@ react-mua-error@^2.1.2:
   resolved "https://registry.yarnpkg.com/react-mua-error/-/react-mua-error-2.1.2.tgz#6d5e0683ee39ddc179c57fcacbad0d697bcd253c"
   integrity sha512-REuU/csJM86/WHxrpBaSNLqWEUuLtTGCnaAT3WtYd4defpX2ls380MMvdZnUiUNT/RkM/9Di4uyJ2FE5JR74dA==
 
-react-mua-gallery@^2.1.2:
-  version "2.1.2"
-  resolved "https://registry.yarnpkg.com/react-mua-gallery/-/react-mua-gallery-2.1.2.tgz#4be4fb441026b422f809785c190a5379bd080fb6"
-  integrity sha512-8ySzxadk0LSKuA1tpuxor7/a4ZlpY064wVcLY2G6qWyXjtKkLE1ofZF81mFjdglsKx4H26Ef4o7hfvtxamKP1A==
+react-mua-gallery@^2.2.0:
+  version "2.2.0"
+  resolved "https://registry.yarnpkg.com/react-mua-gallery/-/react-mua-gallery-2.2.0.tgz#0db39c156aef8fd39c664d86265de732a84d2764"
+  integrity sha512-ZAafmVrzDCSJErCkp+EPtubkBREpx63BtWKWKCPK3M77ImKtaBkH29/ypmfLc5TGpXJ7pyGqXNn6oP+toP//Kg==
 
 react-mua-login@^2.1.2:
   version "2.1.2"

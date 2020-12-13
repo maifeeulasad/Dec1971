@@ -9,7 +9,7 @@
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "react-mua-error": "^2.1.2",
-    "react-mua-gallery": "^2.1.2",
+    "react-mua-gallery": "^2.2.0",
     "react-mua-login": "^2.1.2",
     "react-mua-signup": "^2.1.2",
     "react-scripts": "4.0.1",
